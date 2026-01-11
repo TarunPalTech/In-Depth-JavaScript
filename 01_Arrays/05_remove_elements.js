@@ -19,3 +19,6 @@ console.log(result);  // Subhman
 
 
 // Both of these methods mutate the original array and return the element that is removed
+
+
+// splice() can also be used to add or remove values of the array but we wiil discuss it later....
