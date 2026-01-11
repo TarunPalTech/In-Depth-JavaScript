@@ -1,3 +1,5 @@
+/* Add elements */
+
 let cricketers = ["Subhman","Rituraj","Ishan","Axar"];
 
 /* push() - adds a value at the end of the array */
